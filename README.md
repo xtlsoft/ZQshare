@@ -7,4 +7,4 @@
 #4.ZQshare SSL源代码开放吗？
       ZQshare SSL 源代码完全开放，您可以在这里下载。（记得点星星哦！）
 #5.ZQshare SSL如何使用？
-      请先至 share.baidu.com 自定义获取代码，并到 https://share.zqjs.tk/convert.php 转换。 然后，按照百度分享正常使用步骤，将获取的ZQshare代码复制到页面中去。（其实转换工具仅把域名替换了下，因为用的内核是一样的。）
+      请先至 http://share.baidu.com 自定义获取代码，并到 https://share.zqjs.tk/convert.php 转换。 然后，按照百度分享正常使用步骤，将获取的ZQshare代码复制到页面中去。（其实转换工具仅把域名替换了下，因为用的内核是一样的。）
